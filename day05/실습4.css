@@ -1,0 +1,31 @@
+*{
+    margin: 0 auto;
+    
+    border: 1px solid red;
+}
+.main{
+    width: 265px; height: 360px;;
+    
+}
+.contents{
+    width: 265px; height: 180px;
+    line-height: 160%;
+    border: 1px solid gray;
+    
+}
+
+.title{
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.price{
+    font-weight: bold;
+}
+.con{
+    display: inline;
+    color: orange;
+}
+.div{
+    padding : 5px 0;
+}

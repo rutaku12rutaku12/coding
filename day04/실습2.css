@@ -1,0 +1,19 @@
+.내용{
+   color: white;
+   background-color: rgba(8, 90, 122, 0.904);
+   padding: 18px;
+
+}
+
+.오렌지{
+    color: orange;
+}
+
+.큰{
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.글{
+    margin: px 0px 30px 0px;
+}

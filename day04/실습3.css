@@ -1,0 +1,50 @@
+
+*{
+    margin: 0px auto;
+    
+}
+
+.sq{
+    border: 1px solid pink;
+    border-radius: 10px;
+    width: 500px; height: 350px;
+    text-align: center;
+    padding: 50px;
+    margin: 30px auto;
+    box-shadow: 0 10px 10px 0 pink;
+}
+.title{
+    font-size: 30px;
+    font-weight: bold;
+    margin: 30px;
+}
+
+#idbox{
+    display: flex;
+    width: 250px; height: 40px;
+    border: 1px solid gray;
+    border-radius: 10px;
+    margin: 20px auto;
+    
+}
+
+#passbox{
+    display: flex;
+    width: 250px; height: 40px;
+    border: 1px solid gray;
+    border-radius: 10px;
+    margin: 20px auto;
+}
+
+#button{
+    width: 100px; height: 40px;
+    border: 1px solid black;
+    border-radius: 10px;
+    background-color: blue;
+    color: white;
+    margin: 10px;
+}
+
+a{
+    text-decoration: none;
+}
